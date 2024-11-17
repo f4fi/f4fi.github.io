@@ -1,19 +1,19 @@
 # Summary
 
-- [whoami](./whoami.md)
+[whoami](./whoami.md)
 
 ---
 
 # Writeups
 
-- [Vulnhub](./writeups/vulnhub.md)
+- [Vulnhub](./writeups/vulnhub/vulnhub.md)
      - [Aragog](./writeups/vulnhub/aragog.md)
      - [Dawn](./writeups/vulnhub/dawn.md)
      - [Election: 1](./writeups/vulnhub/election1.md)
      - [Healthcare](./writeups/vulnhub/healthcare.md)
      - [Shenron: 1](./writeups/vulnhub/shenron1.md)
-     - [Funbox : Easy](./writeups/vulnhub/funboxeasy.md)
-     - [Funbox : Rookie](./writeups/vulnhub/funboxrookie.md)
+     - [Funbox: Easy](./writeups/vulnhub/funboxeasy.md)
+     - [Funbox: Rookie](./writeups/vulnhub/funboxrookie.md)
 
 
 - [Vulnyx](./writeups/vulnyx/vulnyx.md)
