@@ -44,6 +44,4 @@
 
 [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech)
 
-[Locos por Linux](https://www.youtube.com/@LocosporLinux)
-
 [Pelado Nerd](https://www.youtube.com/@PeladoNerd)
